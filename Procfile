@@ -1,1 +1,1 @@
-api: java -Dspring.profiles.active=prod -jar target/demo-0.0.1-SNAPSHOT.jar
+web: java -Dspring.profiles.active=prod -jar target/demo-0.0.1-SNAPSHOT.jar
